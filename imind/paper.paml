@@ -4,7 +4,7 @@
 paper:
   title: "iMIND: Insightful Multi-subject Invariant Neural Decoding"
   publication: "NeurIPS"
-  date: "(2025 December)"
+  date: "2025 December"
 
 # 2. Author list
 authors:
@@ -28,9 +28,9 @@ links:
   - name: "arXiv PDF"
     link: "https://arxiv.org/pdf/2509.17313"
     icon: "fa-solid fa-file-pdf"
-  - name: "Code"
+  - name: "GitHub"
     link: "https://github.com/gbZachYin/imind"
-    icon: "fa-solid fa-code"
+    icon: "fa-brands fa-github"
   - name: "OpenReview"
     link: "https://openreview.net/forum?id=9q6sNvAaqO"
     icon: "fa-solid fa-link"
