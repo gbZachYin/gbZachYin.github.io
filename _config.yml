@@ -102,5 +102,5 @@ theme: tranquilpeak
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:gbZachYin/gbZachYin.github.io.git
+  repo: https://github.com/gbZachYin/gbZachYin.github.io.git
   branch: web
