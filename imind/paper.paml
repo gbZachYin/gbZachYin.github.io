@@ -1,0 +1,55 @@
+# A YAML representation of the fullPaperData dictionary
+
+# 1. Core paper details
+paper:
+  title: "iMIND: Insightful Multi-subject Invariant Neural Decoding"
+  publication: "NeurIPS"
+  date: "(2025 December)"
+
+# 2. Author list
+authors:
+  - name: "Zixiang Yin"
+    affiliation: "Department of Computer Science, Tulane University"
+    link: "https://zachyin.com/"
+  - name: "Jiarui Li"
+    affiliation: "Department of Computer Science, Tulane University"
+    link: "https://jiarui-li.com/"
+  - name: "Zhengming Ding"
+    affiliation: "Department of Computer Science, Tulane University"
+    link: "https://allanding.github.io/"
+    corresponding: true
+
+# 3. External links and resources
+links:
+  - name: "Main Paper"
+    link: "https://neurips.cc/virtual/2025/poster/119508"
+    icon: "fa-solid fa-file-lines"
+    expand: true
+  - name: "arXiv PDF"
+    link: "https://arxiv.org/pdf/2509.17313"
+    icon: "fa-solid fa-file-pdf"
+  - name: "Code"
+    link: "https://github.com/gbZachYin/imind"
+    icon: "fa-solid fa-code"
+  - name: "OpenReview"
+    link: "https://openreview.net/forum?id=9q6sNvAaqO"
+    icon: "fa-solid fa-link"
+
+# 4. Citation formats (using the pipe '|' for multi-line strings)
+citations:
+  Bibtex: |
+    @article{yin2025mind,
+      title={iMIND: Insightful Multi-subject Invariant Neural Decoding},
+      author={Yin, Zixiang and Li, Jiarui and Ding, Zhengming},
+      journal={arXiv preprint arXiv:2509.17313},
+      year={2025}
+    }
+  APA: "Yin, Z., Li, J., & Ding, Z. (2025). iMIND: Insightful Multi-subject Invariant Neural Decoding. arXiv preprint arXiv:2509.17313."
+  Chicago: "Yin, Zixiang, Jiarui Li, and Zhengming Ding. \"iMIND: Insightful Multi-subject Invariant Neural Decoding.\" arXiv preprint arXiv:2509.17313 (2025)."
+  MLA: "Yin, Zixiang, Jiarui Li, and Zhengming Ding. \"iMIND: Insightful Multi-subject Invariant Neural Decoding.\" arXiv preprint arXiv:2509.17313 (2025)."
+
+# 5. Path to the main document file
+document:
+  path: "./README.pmd"
+  centered: false
+  footer: "<a href='https://zachyin.com/'>Zach Yin</a> 2025 &copy; CC BY 4.0"
