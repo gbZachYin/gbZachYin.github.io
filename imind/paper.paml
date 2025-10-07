@@ -30,7 +30,7 @@ links:
     expand: true
   - name: "arXiv"
     link: "https://arxiv.org/pdf/2509.17313"
-    icon: "fa-solid fa-file-pdf"
+    icon: "ai ai-arxiv"
   - name: "GitHub"
     link: "https://github.com/gbZachYin/imind"
     icon: "fa-brands fa-github"
