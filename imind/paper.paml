@@ -3,8 +3,11 @@
 # 1. Core paper details
 paper:
   title: "iMIND: Insightful Multi-subject Invariant Neural Decoding"
-  publication: "NeurIPS"
-  date: "2025 December"
+  publication: "The Thirty-Ninth Annual Conference on Neural Information Processing Systems"
+  abbr: "NeurIPS"
+  date:
+    year: 2025
+    month: December
 
 # 2. Author list
 authors:
@@ -21,11 +24,11 @@ authors:
 
 # 3. External links and resources
 links:
-  - name: "Main Paper"
+  - name: "Paper"
     link: "https://neurips.cc/virtual/2025/poster/119508"
     icon: "fa-solid fa-file-lines"
     expand: true
-  - name: "arXiv PDF"
+  - name: "arXiv"
     link: "https://arxiv.org/pdf/2509.17313"
     icon: "fa-solid fa-file-pdf"
   - name: "GitHub"
