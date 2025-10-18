@@ -56,3 +56,8 @@ document:
   path: "./README.pmd"
   centered: false
   footer: "<a href='https://zachyin.com/'>Zach Yin</a> 2025 &copy; CC BY 4.0"
+
+page:
+  title: "iMIND"
+
+  
