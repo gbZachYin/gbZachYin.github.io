@@ -1,38 +1,40 @@
 ---
-title: Zixiang "Zach" Yin's Personal Website
+title: Welcome to Zach's Homepage
+date: 2025-12-09 20:07:00
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+![cat](images/academic_cat.png)
 
-### Create a new post
 
-``` bash
-$ hexo new "My New Post"
-```
+## About Me
+I'm Zixiang (Zach) Yin, a Ph.D. Student in Computer Science at Tulane University, advised by [Dr. Allan Ding](https://allanding.github.io/) since Fall 2023. I work at the intersection of Artificial Intelligence and computational neuroscience, with a focus on fMRI-based neural encoding and decoding. My research interest lies primarily in uncovering how the human visual system represents and processes information by building AI-driven models that reveal the mechanism of brain–vision functionalities.
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+Office: 309 Stanley Thomas Hall
+Postal: 6823 St. Charles Avenue, New Orleans, LA 70118, USA
+Email: zyin[at]tulane[dot]edu
+Phone: (814) 852-8523
 
-### Run server
+## Publications
 
-``` bash
-$ hexo server
-```
+<table>
+    <tbody>
+        <tr>
+            <td width="32%">
+                <img src="/imind/images/arch.png"/>
+            </td>
+            <td>
+                <div style="margin-bottom:8px;">
+                    <code style="color:LightCoral; padding-left:0;">NeurIPS 2025</code>
+                    <span style="margin-left: 12px;">
+                        <a href="/imind"><i class="fa fa-link"></i></a> &nbsp;
+                        <a href="https://github.com/gbZachYin/imind"><i class="fab fa-github"></i></a> &nbsp;
+                    </span>
+                </div>
+                <b>Yin, Z.</b>, Li, J., & Ding, Z. <br>
+                iMIND: Insightful Multi-subject Invariant Neural Decoding. <br>
+                <i style="font-size:10pt;">In The Thirty-ninth Annual Conference on Neural Information Processing Systems</i>.
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
