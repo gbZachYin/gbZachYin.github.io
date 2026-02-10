@@ -16,6 +16,7 @@ Phone: (814) 852-8523
 
 ## Publications
 
+### Brain-Vision
 <table>
     <tbody>
         <tr>
@@ -24,7 +25,7 @@ Phone: (814) 852-8523
             </td>
             <td>
                 <div style="margin-bottom:8px;">
-                    <code style="color:LightCoral; padding-left:0;">NeurIPS 2025</code>
+                    <code style="color:Purple; padding-left:0;">NeurIPS 2025</code>
                     <span style="margin-left: 12px;">
                         <a href="/imind"><i class="fa fa-link"></i></a> &nbsp;
                         <a href="https://github.com/gbZachYin/imind"><i class="fab fa-github"></i></a> &nbsp;
@@ -38,3 +39,25 @@ Phone: (814) 852-8523
     </tbody>
 </table>
 
+### Immunology
+<table>
+    <tbody>
+        <tr>
+            <td width="32%">
+                <img src="https://www.jiarui-li.com/papers/BCB2025EGM/images/intro.png"/>
+            </td>
+            <td>
+                <div style="margin-bottom:8px;">
+                    <code style="color:SteelBlue; padding-left:0;">ACM BCB 2025</code>
+                    <span style="margin-left: 12px;">
+                        <a href="https://www.jiarui-li.com/papers/BCB2025EGM/"><i class="fa fa-link"></i></a> &nbsp;
+                        <a href="https://github.com/Tulane-Mettu-Landry-Lab/tcr-rational"><i class="fab fa-github"></i></a> &nbsp;
+                    </span>
+                </div>
+                Li, J., <b>Yin, Z.</b>, Ding, Z., Landry, S. J., & Mettu, R. R. <br>
+                Rational Multi-Modal Transformers for TCR-pMHC Prediction. <br>
+                <i style="font-size:10pt;">In Proceedings of the 16th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics</i>.
+            </td>
+        </tr>
+    </tbody>
+</table>
