@@ -42,15 +42,17 @@ links:
 # 4. Citation formats (using the pipe '|' for multi-line strings)
 citations:
   Bibtex: |
-    @article{yin2025mind,
+    @article{yin2026mind,
       title={iMIND: Insightful Multi-subject Invariant Neural Decoding},
       author={Yin, Zixiang and Li, Jiarui and Ding, Zhengming},
-      journal={arXiv preprint arXiv:2509.17313},
-      year={2025}
+      journal={Advances in Neural Information Processing Systems},
+      volume={38},
+      pages={148752--148794},
+      year={2026}
     }
-  APA: "Yin, Z., Li, J., & Ding, Z. (2025). iMIND: Insightful Multi-subject Invariant Neural Decoding. arXiv preprint arXiv:2509.17313."
-  Chicago: "Yin, Zixiang, Jiarui Li, and Zhengming Ding. \"iMIND: Insightful Multi-subject Invariant Neural Decoding.\" arXiv preprint arXiv:2509.17313 (2025)."
-  MLA: "Yin, Zixiang, Jiarui Li, and Zhengming Ding. \"iMIND: Insightful Multi-subject Invariant Neural Decoding.\" arXiv preprint arXiv:2509.17313 (2025)."
+  APA: "Yin, Z., Li, J., & Ding, Z. (2026). $ i $ MIND: Insightful Multi-subject Invariant Neural Decoding. Advances in Neural Information Processing Systems, 38, 148752-148794."
+  Chicago: "Yin, Zixiang, Jiarui Li, and Zhengming Ding. \"$ i $ MIND: Insightful Multi-subject Invariant Neural Decoding.\" Advances in Neural Information Processing Systems 38 (2026): 148752-148794."
+  MLA: "Yin, Zixiang, Jiarui Li, and Zhengming Ding. \"$ i $ MIND: Insightful Multi-subject Invariant Neural Decoding.\" Advances in Neural Information Processing Systems 38 (2026): 148752-148794."
 
 # 5. Path to the main document file
 document:

@@ -1,0 +1,64 @@
+# A YAML representation of the fullPaperData dictionary
+
+# 1. Core paper details
+paper:
+  title: "MindVLM: Neural-Grounded Visual Captioning via Subject-Aware Semantic Evidence Selection"
+  publication: "The Fortieth Annual Conference on Neural Information Processing Systems"
+  abbr: "NeurIPS"
+  date:
+    year: 2026
+    month: December
+  pubicon: "images/neurips-navbar-logo.svg"
+
+# 2. Author list
+authors:
+  - name: "Zixiang Yin"
+    affiliation: "Department of Computer Science, Tulane University"
+    link: "https://zachyin.com/"
+  - name: "Yu-Ping Wang"
+    affiliation: "Department of Biomedical Engineering, Tulane University"
+    link: "https://www2.tulane.edu/~wyp/"
+  - name: "Zhengming Ding"
+    affiliation: "Department of Computer Science, Tulane University"
+    link: "https://allanding.github.io/"
+    corresponding: true
+
+# 3. External links and resources
+links:
+  - name: "Paper"
+    link: "https://neurips.cc/virtual/2026/loc/atlanta/poster/154514"
+    icon: "fa-solid fa-file-lines"
+    expand: true
+  - name: "arXiv"
+    link: "https://arxiv.org/abs/2610.12673"
+    icon: "ai ai-arxiv"
+  - name: "GitHub"
+    link: "https://github.com/gbZachYin/mindvlm"
+    icon: "fa-brands fa-github"
+  - name: "OpenReview"
+    link: "https://openreview.net/forum?id=D1By8Wvrqy"
+    icon: "fa-solid fa-link"
+
+# 4. Citation formats (using the pipe '|' for multi-line strings)
+citations:
+  Bibtex: |
+    @article{yin2026mind,
+      title={MindVLM: Neural-Grounded Visual Captioning via Subject-Aware Semantic Evidence Selection},
+      author={Yin, Zixiang and Wang, Yu-Ping and Ding, Zhengming},
+      journal={arXiv preprint arXiv:2509.17313},
+      year={2026}
+    }
+  APA: "Yin, Z., Wang, Y.-P., & Ding, Z. (2026). MindVLM: Neural-Grounded Visual Captioning via Subject-Aware Semantic Evidence Selection. arXiv preprint arXiv:2509.17313."
+  Chicago: "Yin, Zixiang, Yu-Ping Wang, and Zhengming Ding. \"MindVLM: Neural-Grounded Visual Captioning via Subject-Aware Semantic Evidence Selection.\" arXiv preprint arXiv:2509.17313 (2026)."
+  MLA: "Yin, Zixiang, Yu-Ping Wang, and Zhengming Ding. \"MindVLM: Neural-Grounded Visual Captioning via Subject-Aware Semantic Evidence Selection.\" arXiv preprint arXiv:2509.17313 (2026)."
+
+# 5. Path to the main document file
+document:
+  path: "./README.pmd"
+  centered: false
+  footer: "<a href='https://zachyin.com/'>Zach Yin</a> 2026 &copy; CC BY 4.0"
+
+page:
+  title: "MindVLM"
+
+  
